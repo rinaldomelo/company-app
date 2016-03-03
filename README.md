@@ -22,7 +22,7 @@ Simple Rest Web Service with Spring Boot, Spring Data JPA and in the front-end A
 				 - app.js
 				 - controllers.js
 				 - service.js
-				 - index.html
+			 - index.html
 				 
 ### Requesting API through cURL
 
