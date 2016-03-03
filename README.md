@@ -6,25 +6,24 @@ Simple Rest Web Service with Spring Boot, Spring Data JPA and in the front-end A
 
 ### Project Structure (Full Documentation doc/ folder) 
 
--- /src/main/java
-	- company
-		- Application.java
-	- company.controllers
-		- CompanyController.java
-	- company.models
-		- Company.java
-	- company.repository
-		- CompanyRepository.java
-		
--- /src/main/resources
-	- company
-		- static
-			- app
-				- app.js
-				- controllers.js
-				- service.js
-		- index.html
-
+ - /src/main/java
+	 - company 
+		 - Application.java 
+	 - company.controllers
+		 - CompanyController.java 
+	 - company.models
+		 - Company.java
+	 - company.repository
+		 - CompanyRepository.java
+ - /src/main/resources 
+	 - company
+		 - static 
+			 - app 
+				 - app.js
+				 - controllers.js
+				 - service.js
+				 - index.html
+				 
 ### Requesting API through cURL
 
 #### GET request
