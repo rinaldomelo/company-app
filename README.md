@@ -1,4 +1,4 @@
-# Company App with Spring Boot and AngularJS
+# Company App with Spring Boot and AngularJS | Demo: https://obscure-badlands-85687.herokuapp.com/ 
 
 Simple Rest Web Service with Spring Boot, Spring Data JPA and in the front-end AngularJS.
 
